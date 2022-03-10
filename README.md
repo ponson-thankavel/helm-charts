@@ -7,6 +7,9 @@ This is the collection of useful helm charts
 
 ```shell
 helm repo add pthankav https://ponson-thankavel.github.io/helm-charts
+
+helm repo update
+
 ```
 
 
