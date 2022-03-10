@@ -13,15 +13,15 @@ helm repo update
 
 ## Dry Run
 
-``shell
+```shell
 helm upgrade azurecli pthankav/azurecli-openshift --dry-run --debug --install --namespace azurecli-ns --timeout 10m
-``
+```
   
 ## Deploy
 
-``shell
+```shell
 helm upgrade azurecli pthankav/azurecli-openshift --debug --install --namespace azurecli-ns --timeout 10m
-``
+```
 
 ## Steps
 
