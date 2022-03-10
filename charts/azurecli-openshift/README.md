@@ -7,6 +7,8 @@ This helm chart deploys azure cli in openshift cluster as privileged root contai
 
 ```shell
 helm repo add pthankav https://ponson-thankavel.github.io/helm-charts
+
+helm repo update
 ```
 
 ## Dry Run
