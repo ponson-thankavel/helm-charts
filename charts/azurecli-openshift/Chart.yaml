@@ -1,0 +1,12 @@
+apiVersion: v2
+name: azurecli-openshift
+description: A Wrapper Helm Chart for Azure CLI running as root user
+type: application
+version: 0.0.1
+appVersion: "2.33.0"
+kubeVersion: "^1.8.0-0"
+home: https://microsoft.com
+icon: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31
+maintainers:
+  - name: Ponson Thankavel
+    email: mailtoponson@yahoo.co.in
