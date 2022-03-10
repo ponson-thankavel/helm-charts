@@ -30,4 +30,3 @@ helm upgrade azurecli pthankav/azurecli-openshift --debug --install --namespace 
 3. Get shell access to azure cli pod 'oc exec -it pod/<azurecli pod name> -- sh'
 4. login to azure using 'az login'
 5. run other azure cli commands
-
