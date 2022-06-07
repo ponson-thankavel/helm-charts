@@ -1,4 +1,4 @@
-# Ponson's Heml Charts
+# Ponson's Helm Charts
 
 This is the collection of useful helm charts
 
